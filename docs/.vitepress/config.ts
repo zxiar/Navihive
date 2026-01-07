@@ -33,7 +33,7 @@ export default defineConfig({
 
     // 社交链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/zqq-nuli/Cloudflare-Navihive' },
+      { icon: 'github', link: 'https://github.com/zxiar' },
     ],
 
     // 搜索
