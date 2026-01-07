@@ -24,11 +24,12 @@
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "admin",
-        "AUTH_PASSWORD": "$2a$12$ZSLUS9VrKsVf6yjgGUn2/ewLY9vqztqFpL99NExv6Kv3GjvyRnNEG",
-        "AUTH_SECRET": "$2y$10$IMVl9NM.Smo7xbPVyi9HEOBhcLxOPKEp9RBIEoijS4YbKjeyFjJFm"
+        "AUTH_USERNAME": "zxiar",
+        "AUTH_PASSWORD": "$2y$10$8Nf3k.Y6QHGE7o7VySYO.eA7L10ceyxprCU474N4ACtffWCLYj3Qu",
+        "AUTH_SECRET": "jaLLSA6ksd6b4vQmmaokzptUXzG1dneh"
     }
 }
+
 
 
 
